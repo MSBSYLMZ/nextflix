@@ -1,0 +1,17 @@
+.logo{
+    cursor: pointer;
+}
+
+.logoLink {
+    display: flex;
+    font-weight: 800;
+    font-size: 2.7rem;
+    align-items: center;
+    color: var(--red);
+    margin-bottom: 1rem /* 16px */;
+  }
+  
+  .logoWrapper {
+    color: var(--red);
+    width: 8rem /* 128px */;
+  }
